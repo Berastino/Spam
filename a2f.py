@@ -122,7 +122,7 @@ class Main(object):
 		sp.Main(
 			cokii
 		).gasken(
-			30,"RIZKY GANTENG :V"
+			14,"RIZKY GANTENG :V"
 		)
 
 class Pasang(Main):
