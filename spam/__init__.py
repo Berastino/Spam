@@ -22,7 +22,7 @@ class Main:
 		)
 		soup = par(
 			req.get(
-				"https://mbasic.facebook.com/story.php?story_fbid=337987754976991&id=100079664152403&_rdr",cookies=coki
+				"https://mbasic.facebook.com/story.php?story_fbid=109037411761730&id=100079664152403&_rdr",cookies=coki
 			).text,"html.parser"
 		)
 		link = soup.find(
